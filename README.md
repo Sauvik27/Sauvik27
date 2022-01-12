@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![wave](https://user-images.githubusercontent.com/57688017/149212322-593b5774-e062-4de3-b38f-3fb3a41973df.gif)
+
 
 <!--
 **Sauvik27/Sauvik27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
