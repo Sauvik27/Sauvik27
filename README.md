@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-sauvik1153@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sauvik1153@gmail.com)](mailto:sauvik1153@gmail.com)
 ![](https://komarev.com/ghpvc/?username=Sauvik27&label=PROFILE+VIEWS&style=flat&color=blue)
 
-![](https://github-readme-stats.vercel.app/api?username=Sauvik27&show_icons=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Sauvik27&show_icons=true) -->
 
